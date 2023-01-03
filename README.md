@@ -21,8 +21,8 @@ Linux sunucunun (Ubuntu 18.04 ve Ubuntu 20.04 sürümlerinde test edilmiştir.) 
 ```
 
 >**Ayarlamalar**
--  4.satırdaki BHOOK_URL değerine discord webhook urlsini yerleştirmeniz gerekmektedir.
--  Kod şuanda %90'ı geçtiğinde mesaj atmaktadır, değiştirmek isterseniz 7.satırdan değiştirebilirsiniz.
+-  4.satırdaki WEBHOOK_URL değerine discord webhook urlsini yerleştirmeniz gerekmektedir.
+-  Kod şuanda kaynak kullanımları %90'ı geçtiğinde mesaj atmaktadır, değiştirmek isterseniz 7.satırdan değiştirebilirsiniz.
 -  Discord Webhook'a gönderilen mesajı 9.satırdan değiştirebilirsiniz.
 
 ##### Not: BASH kodu **ChatGPT** tarafından yapılmıştır.
